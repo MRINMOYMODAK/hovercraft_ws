@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../../build/launch_system/launch_system.egg-info/PKG-INFO
+../../build/launch_system/launch_system.egg-info/SOURCES.txt
+../../build/launch_system/launch_system.egg-info/dependency_links.txt
+../../build/launch_system/launch_system.egg-info/requires.txt
+../../build/launch_system/launch_system.egg-info/top_level.txt
+../../build/launch_system/launch_system.egg-info/zip-safe
+launch_system/__init__.py
+resource/launch_system
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

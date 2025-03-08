@@ -1,0 +1,32 @@
+[2.026s] Invoking command in '/home/mrinmoy/hovercraft_ws/src/launch_system': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrinmoy/hovercraft_ws/build/launch_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrinmoy/hovercraft_ws/install/launch_system/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/launch_system build --build-base /home/mrinmoy/hovercraft_ws/build/launch_system/build install --record /home/mrinmoy/hovercraft_ws/build/launch_system/install.log --single-version-externally-managed install_data
+[2.475s] running egg_info
+[2.475s] creating ../../build/launch_system/launch_system.egg-info
+[2.511s] writing ../../build/launch_system/launch_system.egg-info/PKG-INFO
+[2.512s] writing dependency_links to ../../build/launch_system/launch_system.egg-info/dependency_links.txt
+[2.512s] writing requirements to ../../build/launch_system/launch_system.egg-info/requires.txt
+[2.513s] writing top-level names to ../../build/launch_system/launch_system.egg-info/top_level.txt
+[2.513s] writing manifest file '../../build/launch_system/launch_system.egg-info/SOURCES.txt'
+[2.595s] reading manifest file '../../build/launch_system/launch_system.egg-info/SOURCES.txt'
+[2.598s] writing manifest file '../../build/launch_system/launch_system.egg-info/SOURCES.txt'
+[2.598s] running build
+[2.599s] running build_py
+[2.599s] creating /home/mrinmoy/hovercraft_ws/build/launch_system/build
+[2.600s] creating /home/mrinmoy/hovercraft_ws/build/launch_system/build/lib
+[2.600s] creating /home/mrinmoy/hovercraft_ws/build/launch_system/build/lib/launch_system
+[2.600s] copying launch_system/__init__.py -> /home/mrinmoy/hovercraft_ws/build/launch_system/build/lib/launch_system
+[2.601s] running install
+[2.610s] running install_lib
+[2.644s] creating /home/mrinmoy/hovercraft_ws/install/launch_system/lib/python3.12/site-packages/launch_system
+[2.644s] copying /home/mrinmoy/hovercraft_ws/build/launch_system/build/lib/launch_system/__init__.py -> /home/mrinmoy/hovercraft_ws/install/launch_system/lib/python3.12/site-packages/launch_system
+[2.645s] byte-compiling /home/mrinmoy/hovercraft_ws/install/launch_system/lib/python3.12/site-packages/launch_system/__init__.py to __init__.cpython-312.pyc
+[2.645s] running install_data
+[2.645s] creating /home/mrinmoy/hovercraft_ws/install/launch_system/share/ament_index
+[2.646s] creating /home/mrinmoy/hovercraft_ws/install/launch_system/share/ament_index/resource_index
+[2.646s] creating /home/mrinmoy/hovercraft_ws/install/launch_system/share/ament_index/resource_index/packages
+[2.646s] copying resource/launch_system -> /home/mrinmoy/hovercraft_ws/install/launch_system/share/ament_index/resource_index/packages
+[2.646s] copying package.xml -> /home/mrinmoy/hovercraft_ws/install/launch_system/share/launch_system
+[2.647s] running install_egg_info
+[2.682s] Copying ../../build/launch_system/launch_system.egg-info to /home/mrinmoy/hovercraft_ws/install/launch_system/lib/python3.12/site-packages/launch_system-0.0.0-py3.12.egg-info
+[2.683s] running install_scripts
+[2.905s] writing list of installed files to '/home/mrinmoy/hovercraft_ws/build/launch_system/install.log'
+[2.988s] Invoked command in '/home/mrinmoy/hovercraft_ws/src/launch_system' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrinmoy/hovercraft_ws/build/launch_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrinmoy/hovercraft_ws/install/launch_system/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/launch_system build --build-base /home/mrinmoy/hovercraft_ws/build/launch_system/build install --record /home/mrinmoy/hovercraft_ws/build/launch_system/install.log --single-version-externally-managed install_data

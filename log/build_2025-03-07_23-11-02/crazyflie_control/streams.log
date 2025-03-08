@@ -1,0 +1,32 @@
+[1.995s] Invoking command in '/home/mrinmoy/hovercraft_ws/src/crazyflie_control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrinmoy/hovercraft_ws/build/crazyflie_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrinmoy/hovercraft_ws/install/crazyflie_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/crazyflie_control build --build-base /home/mrinmoy/hovercraft_ws/build/crazyflie_control/build install --record /home/mrinmoy/hovercraft_ws/build/crazyflie_control/install.log --single-version-externally-managed install_data
+[2.451s] running egg_info
+[2.451s] creating ../../build/crazyflie_control/crazyflie_control.egg-info
+[2.484s] writing ../../build/crazyflie_control/crazyflie_control.egg-info/PKG-INFO
+[2.484s] writing dependency_links to ../../build/crazyflie_control/crazyflie_control.egg-info/dependency_links.txt
+[2.484s] writing requirements to ../../build/crazyflie_control/crazyflie_control.egg-info/requires.txt
+[2.485s] writing top-level names to ../../build/crazyflie_control/crazyflie_control.egg-info/top_level.txt
+[2.485s] writing manifest file '../../build/crazyflie_control/crazyflie_control.egg-info/SOURCES.txt'
+[2.560s] reading manifest file '../../build/crazyflie_control/crazyflie_control.egg-info/SOURCES.txt'
+[2.561s] writing manifest file '../../build/crazyflie_control/crazyflie_control.egg-info/SOURCES.txt'
+[2.561s] running build
+[2.562s] running build_py
+[2.562s] creating /home/mrinmoy/hovercraft_ws/build/crazyflie_control/build
+[2.562s] creating /home/mrinmoy/hovercraft_ws/build/crazyflie_control/build/lib
+[2.563s] creating /home/mrinmoy/hovercraft_ws/build/crazyflie_control/build/lib/crazyflie_control
+[2.563s] copying crazyflie_control/__init__.py -> /home/mrinmoy/hovercraft_ws/build/crazyflie_control/build/lib/crazyflie_control
+[2.563s] running install
+[2.578s] running install_lib
+[2.612s] creating /home/mrinmoy/hovercraft_ws/install/crazyflie_control/lib/python3.12/site-packages/crazyflie_control
+[2.613s] copying /home/mrinmoy/hovercraft_ws/build/crazyflie_control/build/lib/crazyflie_control/__init__.py -> /home/mrinmoy/hovercraft_ws/install/crazyflie_control/lib/python3.12/site-packages/crazyflie_control
+[2.613s] byte-compiling /home/mrinmoy/hovercraft_ws/install/crazyflie_control/lib/python3.12/site-packages/crazyflie_control/__init__.py to __init__.cpython-312.pyc
+[2.614s] running install_data
+[2.614s] creating /home/mrinmoy/hovercraft_ws/install/crazyflie_control/share/ament_index
+[2.615s] creating /home/mrinmoy/hovercraft_ws/install/crazyflie_control/share/ament_index/resource_index
+[2.615s] creating /home/mrinmoy/hovercraft_ws/install/crazyflie_control/share/ament_index/resource_index/packages
+[2.615s] copying resource/crazyflie_control -> /home/mrinmoy/hovercraft_ws/install/crazyflie_control/share/ament_index/resource_index/packages
+[2.617s] copying package.xml -> /home/mrinmoy/hovercraft_ws/install/crazyflie_control/share/crazyflie_control
+[2.617s] running install_egg_info
+[2.657s] Copying ../../build/crazyflie_control/crazyflie_control.egg-info to /home/mrinmoy/hovercraft_ws/install/crazyflie_control/lib/python3.12/site-packages/crazyflie_control-0.0.0-py3.12.egg-info
+[2.658s] running install_scripts
+[2.877s] writing list of installed files to '/home/mrinmoy/hovercraft_ws/build/crazyflie_control/install.log'
+[2.944s] Invoked command in '/home/mrinmoy/hovercraft_ws/src/crazyflie_control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrinmoy/hovercraft_ws/build/crazyflie_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrinmoy/hovercraft_ws/install/crazyflie_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/crazyflie_control build --build-base /home/mrinmoy/hovercraft_ws/build/crazyflie_control/build install --record /home/mrinmoy/hovercraft_ws/build/crazyflie_control/install.log --single-version-externally-managed install_data

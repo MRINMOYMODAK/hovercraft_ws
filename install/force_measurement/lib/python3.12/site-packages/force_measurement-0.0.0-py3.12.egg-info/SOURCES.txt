@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../../build/force_measurement/force_measurement.egg-info/PKG-INFO
+../../build/force_measurement/force_measurement.egg-info/SOURCES.txt
+../../build/force_measurement/force_measurement.egg-info/dependency_links.txt
+../../build/force_measurement/force_measurement.egg-info/requires.txt
+../../build/force_measurement/force_measurement.egg-info/top_level.txt
+../../build/force_measurement/force_measurement.egg-info/zip-safe
+force_measurement/__init__.py
+resource/force_measurement
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

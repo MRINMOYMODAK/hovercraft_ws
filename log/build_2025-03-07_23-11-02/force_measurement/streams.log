@@ -1,0 +1,32 @@
+[1.993s] Invoking command in '/home/mrinmoy/hovercraft_ws/src/force_measurement': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrinmoy/hovercraft_ws/build/force_measurement/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrinmoy/hovercraft_ws/install/force_measurement/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/force_measurement build --build-base /home/mrinmoy/hovercraft_ws/build/force_measurement/build install --record /home/mrinmoy/hovercraft_ws/build/force_measurement/install.log --single-version-externally-managed install_data
+[2.451s] running egg_info
+[2.451s] creating ../../build/force_measurement/force_measurement.egg-info
+[2.483s] writing ../../build/force_measurement/force_measurement.egg-info/PKG-INFO
+[2.484s] writing dependency_links to ../../build/force_measurement/force_measurement.egg-info/dependency_links.txt
+[2.484s] writing requirements to ../../build/force_measurement/force_measurement.egg-info/requires.txt
+[2.484s] writing top-level names to ../../build/force_measurement/force_measurement.egg-info/top_level.txt
+[2.485s] writing manifest file '../../build/force_measurement/force_measurement.egg-info/SOURCES.txt'
+[2.554s] reading manifest file '../../build/force_measurement/force_measurement.egg-info/SOURCES.txt'
+[2.555s] writing manifest file '../../build/force_measurement/force_measurement.egg-info/SOURCES.txt'
+[2.555s] running build
+[2.555s] running build_py
+[2.556s] creating /home/mrinmoy/hovercraft_ws/build/force_measurement/build
+[2.556s] creating /home/mrinmoy/hovercraft_ws/build/force_measurement/build/lib
+[2.556s] creating /home/mrinmoy/hovercraft_ws/build/force_measurement/build/lib/force_measurement
+[2.556s] copying force_measurement/__init__.py -> /home/mrinmoy/hovercraft_ws/build/force_measurement/build/lib/force_measurement
+[2.557s] running install
+[2.570s] running install_lib
+[2.609s] creating /home/mrinmoy/hovercraft_ws/install/force_measurement/lib/python3.12/site-packages/force_measurement
+[2.610s] copying /home/mrinmoy/hovercraft_ws/build/force_measurement/build/lib/force_measurement/__init__.py -> /home/mrinmoy/hovercraft_ws/install/force_measurement/lib/python3.12/site-packages/force_measurement
+[2.610s] byte-compiling /home/mrinmoy/hovercraft_ws/install/force_measurement/lib/python3.12/site-packages/force_measurement/__init__.py to __init__.cpython-312.pyc
+[2.611s] running install_data
+[2.611s] creating /home/mrinmoy/hovercraft_ws/install/force_measurement/share/ament_index
+[2.611s] creating /home/mrinmoy/hovercraft_ws/install/force_measurement/share/ament_index/resource_index
+[2.612s] creating /home/mrinmoy/hovercraft_ws/install/force_measurement/share/ament_index/resource_index/packages
+[2.612s] copying resource/force_measurement -> /home/mrinmoy/hovercraft_ws/install/force_measurement/share/ament_index/resource_index/packages
+[2.612s] copying package.xml -> /home/mrinmoy/hovercraft_ws/install/force_measurement/share/force_measurement
+[2.612s] running install_egg_info
+[2.652s] Copying ../../build/force_measurement/force_measurement.egg-info to /home/mrinmoy/hovercraft_ws/install/force_measurement/lib/python3.12/site-packages/force_measurement-0.0.0-py3.12.egg-info
+[2.653s] running install_scripts
+[2.873s] writing list of installed files to '/home/mrinmoy/hovercraft_ws/build/force_measurement/install.log'
+[2.963s] Invoked command in '/home/mrinmoy/hovercraft_ws/src/force_measurement' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrinmoy/hovercraft_ws/build/force_measurement/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrinmoy/hovercraft_ws/install/force_measurement/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/force_measurement build --build-base /home/mrinmoy/hovercraft_ws/build/force_measurement/build install --record /home/mrinmoy/hovercraft_ws/build/force_measurement/install.log --single-version-externally-managed install_data

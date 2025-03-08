@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/force_measurement/force_measurement.egg-info
+writing ../../build/force_measurement/force_measurement.egg-info/PKG-INFO
+writing dependency_links to ../../build/force_measurement/force_measurement.egg-info/dependency_links.txt
+writing requirements to ../../build/force_measurement/force_measurement.egg-info/requires.txt
+writing top-level names to ../../build/force_measurement/force_measurement.egg-info/top_level.txt
+writing manifest file '../../build/force_measurement/force_measurement.egg-info/SOURCES.txt'
+reading manifest file '../../build/force_measurement/force_measurement.egg-info/SOURCES.txt'
+writing manifest file '../../build/force_measurement/force_measurement.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mrinmoy/hovercraft_ws/build/force_measurement/build
+creating /home/mrinmoy/hovercraft_ws/build/force_measurement/build/lib
+creating /home/mrinmoy/hovercraft_ws/build/force_measurement/build/lib/force_measurement
+copying force_measurement/__init__.py -> /home/mrinmoy/hovercraft_ws/build/force_measurement/build/lib/force_measurement
+running install
+running install_lib
+creating /home/mrinmoy/hovercraft_ws/install/force_measurement/lib/python3.12/site-packages/force_measurement
+copying /home/mrinmoy/hovercraft_ws/build/force_measurement/build/lib/force_measurement/__init__.py -> /home/mrinmoy/hovercraft_ws/install/force_measurement/lib/python3.12/site-packages/force_measurement
+byte-compiling /home/mrinmoy/hovercraft_ws/install/force_measurement/lib/python3.12/site-packages/force_measurement/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/mrinmoy/hovercraft_ws/install/force_measurement/share/ament_index
+creating /home/mrinmoy/hovercraft_ws/install/force_measurement/share/ament_index/resource_index
+creating /home/mrinmoy/hovercraft_ws/install/force_measurement/share/ament_index/resource_index/packages
+copying resource/force_measurement -> /home/mrinmoy/hovercraft_ws/install/force_measurement/share/ament_index/resource_index/packages
+copying package.xml -> /home/mrinmoy/hovercraft_ws/install/force_measurement/share/force_measurement
+running install_egg_info
+Copying ../../build/force_measurement/force_measurement.egg-info to /home/mrinmoy/hovercraft_ws/install/force_measurement/lib/python3.12/site-packages/force_measurement-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/mrinmoy/hovercraft_ws/build/force_measurement/install.log'
